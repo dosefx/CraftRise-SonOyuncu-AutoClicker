@@ -4,9 +4,9 @@ Basic craftrise and sonoyuncu autoclicker for beginners. Will update stuff later
 Questions? Join -> https://discord.gg/H4BpXRKRRJ
 
 Example (put it in the timer):
-`
- if (MouseButtons == MouseButtons.Left)
- {
-    clickerclass.leftclick(1);
- }
-`
+```csharp
+if (MouseButtons == MouseButtons.Left)
+{
+   clickerclass.leftclick(1);
+}
+```
