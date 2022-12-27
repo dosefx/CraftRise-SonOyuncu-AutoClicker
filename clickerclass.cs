@@ -57,7 +57,7 @@ namespace dosefx
         {
             if (javaw() == "Bulunamadı")
             {
-                eturn craftrise();
+                return craftrise();
             }
             else
             {
