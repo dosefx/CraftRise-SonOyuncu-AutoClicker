@@ -3,10 +3,10 @@ Basic craftrise and sonoyuncu autoclicker for beginners. Will update stuff later
 
 Questions? Join -> https://discord.gg/H4BpXRKRRJ
 
-Example (put it in the timer): \n
+Example (put it in the timer):
 `
-if (MouseButtons == MouseButtons.Left) \n
-{ \n
-  clickerclass.leftclick(1);\n
-}
+ if (MouseButtons == MouseButtons.Left)
+ {
+    clickerclass.leftclick(1);
+ }
 `
